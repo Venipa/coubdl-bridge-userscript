@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+.vscode/
+!.gitignore
+dist/**/*
+!dist/coub-bridge.user.js
